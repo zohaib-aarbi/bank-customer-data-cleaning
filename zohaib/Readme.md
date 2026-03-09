@@ -1,5 +1,16 @@
 # Data Cleaning Project – Customer Banking Dataset
 
+Key Skills Demonstrated
+
+• Data Cleaning with Pandas
+• Handling Missing Values
+• Duplicate Detection & Removal
+• Data Type Correction
+• Text Standardization
+• Feature Engineering
+• Outlier Detection using IQR
+• Data Export & Documentation
+
 ## Project Overview
 
 In real-world data analysis, raw datasets are rarely clean. They often contain missing values, duplicate records, inconsistent text formatting, incorrect data types, and extreme outliers.
